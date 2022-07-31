@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @hello-wbo,good luck.
-- 👀 I’m interested in ...a lot.
-- 🌱 I’m currently learning ...C++.
-- 💞️ I’m looking to collaborate on ...none.
-- 📫 How to reach me ...QQ.
+- 🌱 I’m currently learning C++.
+- 📫 How to reach me ？QQ：3364132575.
 
 <!---
 hello-wbo/hello-wbo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
